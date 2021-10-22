@@ -37,16 +37,16 @@
         
         <ul class="mt-5 flex-center">
             <li>
-                <a href="">First Page</a>
+                <a href="http://127.0.0.1:8000/first">First Page</a>
             </li>
             <li>
-                <a href="">Second Page</a>
+                <a href="http://127.0.0.1:8000/second">Second Page</a>
             </li>
             <li>
-                <a href="">Third Page</a>
+                <a href="http://127.0.0.1:8000/third">Third Page</a>
             </li>
             <li>
-                <a href="">Fourth Page</a>
+                <a href="http://127.0.0.1:8000/fourth">Fourth Page</a>
             </li>
         </ul>
     </header>
